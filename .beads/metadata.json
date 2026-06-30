@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "bell_expo",
+  "project_id": "d10e4560-ea09-4fb6-8b7c-e415b091ceef"
+}
