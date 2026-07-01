@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "bell-expo",
+    "name": "Bell",
     "slug": "bell-expo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/app-icon-bell-willow.png",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -13,18 +13,28 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.corwin.bell",
+      "infoPlist": {
+        "CFBundleDisplayName": "Bell",
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/app-icon-bell-willow.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/app-icon-bell-willow.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86df9428-43b0-4206-bce0-1af78a18934c"
+      }
     }
   }
 }

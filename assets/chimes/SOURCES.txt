@@ -1,0 +1,23 @@
+Bundled chimes are downloaded from BigSoundBank by Joseph SARDIN.
+
+License researched 2026-06-30:
+https://bigsoundbank.com/licenses.html describes the free sound license as
+CC0 1.0 Universal / WTFPL / public domain dedication, allowing copying,
+adaptation, redistribution, and commercial use without permission.
+
+Files:
+- bowl-deep.mp3: Tibetan Bowl Struck #1
+  https://bigsoundbank.com/tibetan-bowl-struck-s1110.html
+  Downloaded from https://bigsoundbank.com/UPLOAD/mp3/1110.mp3?v=d
+- bowl-soft.mp3: Tibetan bowl struck #2
+  https://bigsoundbank.com/tibetan-bowl-struck-2-s2553.html
+  Downloaded from https://bigsoundbank.com/UPLOAD/mp3/2553.mp3?v=d
+- bowl-clear.mp3: Tibetan bowl struck #3
+  https://bigsoundbank.com/tibetan-bowl-struck-3-s2554.html
+  Downloaded from https://bigsoundbank.com/UPLOAD/mp3/2554.mp3?v=d
+- bowl-bright.mp3: Tibetan bowl struck #4
+  https://bigsoundbank.com/tibetan-bowl-struck-4-s2555.html
+  Downloaded from https://bigsoundbank.com/UPLOAD/mp3/2555.mp3?v=d
+- bowl-sustain.mp3: Tibetan bowl singing
+  https://bigsoundbank.com/tibetan-bowl-singing-s1109.html
+  Downloaded from https://bigsoundbank.com/UPLOAD/mp3/1109.mp3?v=d

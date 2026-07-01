@@ -26,6 +26,10 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
+# generated local artifacts
+.codex-artifacts/
+expo-qr.png
+
 # macOS
 .DS_Store
 *.pem
