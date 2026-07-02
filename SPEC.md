@@ -128,6 +128,7 @@ This file is the source of intended project behavior. Every requested product or
   - `expo start --ios`
   - `expo start --web`
 - iOS production build and submission are configured through EAS package scripts.
+- Production EAS builds should use remote app versioning and automatically increment the developer-facing build number.
 - The web preview should run on `http://localhost:4000` during development.
 
 ## Non-Goals
